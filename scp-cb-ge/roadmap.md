@@ -1,5 +1,5 @@
 ---
-permalink: /scp-cb-ge/roadmap.html
+permalink: /scpcb-ge/roadmap.html
 ---
 # Roadmap
 
