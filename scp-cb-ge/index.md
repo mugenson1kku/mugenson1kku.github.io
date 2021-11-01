@@ -1,5 +1,5 @@
 ---
-permalink: /scp-cb-ge/index.html
+permalink: /scpcb-ge/index.html
 ---
 # SCP - Containment Breach Godot Edition
 
