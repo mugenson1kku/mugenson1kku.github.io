@@ -1,6 +1,7 @@
 ---
 permalink: /scpcb-ge/index.html
 ---
+[<back to main page](/index)
 # SCP - Containment Breach Godot Edition
 
 ## Description
