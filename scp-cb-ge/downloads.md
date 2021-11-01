@@ -1,7 +1,7 @@
 ---
 permalink: /scpcb-ge/downloads.html
 ---
-[<back](/scpcb-ge)
+[<<back to main page](/index) [<back to project page](/scpcb-ge)
 # Download page
 You can download the latest version of the game for each ***SUPPORTED*** platform from this page.
 
