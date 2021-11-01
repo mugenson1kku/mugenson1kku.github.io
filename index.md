@@ -1,6 +1,9 @@
 ---
 permalink: /index.html
 ---
+
+<link rel = "stylesheet" href = "style.css">
+
 #[SITEMAP](https://mugensonic.github.io/sitemap)
 ## Site is under reconstruction
 Soon will be something global.
