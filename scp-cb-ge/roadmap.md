@@ -6,11 +6,25 @@ permalink: /scpcb-ge/roadmap.html
 
 ## Roadmap points:
 
-1. Weapons - (SINGLEPLAYER) / (MULTIPLAYER):
-  - Melee - ❎/❎
-  - Shotgun or Rifle - ❎/❎
-2. Camera rotation  - ✅/✅
-3. Music in menu - ✅
-4. In-game music - ✅/❎
-4. New player controller - ✅/❎
-5. Health system - ❎/❎
+### Singleplayer
+- [ ] 1. Weapons:
+  - [ ] Melee
+  - [ ] Shotgun or Rifle
+- [x] 2. Camera rotation
+- [x] 3. In-game music
+- [x] 4. New player controller
+- [ ] 5. Health system
+
+### Multiplayer
+- [ ] 1. Weapons:
+  - [ ] Melee
+  - [ ] Shotgun or Rifle
+- [x] 2. Camera rotation
+- [ ] 4. In-game music
+- [x] 4. New player controller
+- [ ] 5. Health system
+
+### Technical
+- [x] 1. Music in menu
+- [x] 2. Collisions in singleplayer
+- [ ] 3. Collisions in multiplayer
