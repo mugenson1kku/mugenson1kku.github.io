@@ -10,5 +10,4 @@ This project was created as an attempt to create a shooter on the Godot engine v
 Once when i want.
 
 ## Links
-[Download page](/scp-cb-ge/downloads.html)
-[Roadmap](/scp-cb-ge/roadmap.html)
+[Download page](/scp-cb-ge/downloads.html) | [Roadmap](/scp-cb-ge/roadmap.html)
