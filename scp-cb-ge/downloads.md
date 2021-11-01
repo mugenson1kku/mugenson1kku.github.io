@@ -1,6 +1,7 @@
 ---
-permalink: /scp-cb-ge/downloads.html
+permalink: /scpcb-ge/downloads.html
 ---
+[<back](/scpcb-ge)
 # Download page
 You can download the latest version of the game for each ***SUPPORTED*** platform from this page.
 
