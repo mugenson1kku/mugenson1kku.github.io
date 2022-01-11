@@ -1,5 +1,5 @@
 ---
-permalink: /suscpg/downloads.html
+permalink: /uscpg/downloads.html
 ---
 [<<back to main page](/index) [<back to project page](/uscpg)
 # Download page
