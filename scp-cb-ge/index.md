@@ -1,8 +1,8 @@
 ---
-permalink: /scpcb-ge/index.html
+permalink: /uscpg/index.html
 ---
 [<back to main page](/index)
-# SCP - Containment Breach Godot Edition
+# An Untitled SCP Game
 
 ## Description
 This project was created as an attempt to create a shooter on the Godot engine version 3.
@@ -11,4 +11,4 @@ This project was created as an attempt to create a shooter on the Godot engine v
 Once when i want.
 
 ## Links
-[Download page](/scpcb-ge/downloads.html) | [Roadmap](/scpcb-ge/roadmap.html)
+[Download page](/uscpg/downloads.html) | [Roadmap](/uscpg/roadmap.html)
