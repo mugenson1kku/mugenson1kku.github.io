@@ -1,7 +1,7 @@
 ---
-permalink: /scpcb-ge/roadmap.html
+permalink: /uscpg/roadmap.html
 ---
-[<<back to main page](/index) [<back to project page](/scpcb-ge)
+[<<back to main page](/index) [<back to project page](/uscpg)
 # Roadmap
 
 ## Roadmap points:
